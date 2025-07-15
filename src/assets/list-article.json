@@ -1,0 +1,44 @@
+[
+    {
+        "category": "Fiqh",
+        "title": "Diskusi Fiqh: Hukum Zakat Fitrah",
+        "date": "Sabtu, 19 Juli 2025",
+        "time": "10:00 WIB",
+        "image": "https://img.icons8.com/?size=100&id=21093&format=png&color=000000"
+    },
+    {
+        "category": "Fiqh",
+        "title": "Fiqh Praktis: Shalat di Tempat Kerja",
+        "date": "Minggu, 20 Juli 2025",
+        "time": "13:00 WIB",
+        "image": "https://img.icons8.com/?size=100&id=21093&format=png&color=000000"
+    },
+    {
+        "category": "Aqidah",
+        "title": "Aqidah Islam: Mengenal Tauhid",
+        "date": "Senin, 21 Juli 2025",
+        "time": "09:00 WIB",
+        "image": "https://img.icons8.com/?size=100&id=21094&format=png&color=000000"
+    },
+    {
+        "category": "Sejarah",
+        "title": "Sejarah Islam: Perjalanan Hijrah Nabi",
+        "date": "Selasa, 22 Juli 2025",
+        "time": "15:00 WIB",
+        "image": "https://img.icons8.com/?size=100&id=21095&format=png&color=000000"
+    },
+    {
+        "category": "Adab",
+        "title": "Adab Islami: Etika Berbicara",
+        "date": "Rabu, 23 Juli 2025",
+        "time": "18:00 WIB",
+        "image": "https://img.icons8.com/?size=100&id=21096&format=png&color=000000"
+    },
+    {
+        "category": "Tafsir",
+        "title": "Tafsir Al-Qur'an: Surat Al-Fatihah",
+        "date": "Kamis, 24 Juli 2025",
+        "time": "17:00 WIB",
+        "image": "https://img.icons8.com/?size=100&id=21097&format=png&color=000000"
+    }
+]
