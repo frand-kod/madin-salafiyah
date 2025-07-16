@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Lutfi Laudzi, M.T",
+    "mapel": ["Nahwu", "Shorof"],
+    "foto": "img.com"
+  },
+  {
+    "nama": "Chanif Ainun Na’im, S.Sos",
+    "mapel": ["Tafsir"],
+    "foto": "img.com"
+  },
+  {
+    "nama": "Abdur Rahman Wakhid, S.S.",
+    "mapel": ["Tauhid", "Fiqih"],
+    "foto": "img.com"
+  },
+  {
+    "nama": "M. Sulthon Latif Rahmatullah, M.A",
+    "mapel": ["Fiqih", "Kitab Turats"],
+    "foto": "img.com"
+  },
+  {
+    "nama": "M. Nabih Ali, M.H",
+    "mapel": ["Sirah", "Hadis"],
+    "foto": "img.com"
+  },
+  {
+    "nama": "M. Iqbal Zamzami, S.Pd",
+    "mapel": ["Tajwid"],
+    "foto": "img.com"
+  }
+]

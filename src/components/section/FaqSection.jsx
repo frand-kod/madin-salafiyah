@@ -1,4 +1,4 @@
-import FAQItem from "../partial/Footer/FaqItem";
+import FAQItem from "../partial/footer/FaqItem";
 import faqs from '../../assets/faqs.json'
 
 export default function FAQSection() {

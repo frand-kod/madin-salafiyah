@@ -1,12 +1,14 @@
-import FooterBrandInfo from "../partial/Footer/FooterBrandInfo";
-import FooterColumn from "../partial/Footer/FooterColumns";
-import FooterLogos from "../partial/Footer/FooterLogos";
-import SosmedIcons from "../partial/Footer/SosmedIcons";
+import FooterBrandInfo from "../partial/footer/FooterBrandInfo";
+import FooterColumn from "../partial/footer/FooterColumns";
+import FooterLogos from "../partial/footer/FooterLogos";
+
 
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-50 text-gray-700 text-sm mt-10 bg-gray-200 ">
+
+    <footer className="text-gray-700 text-sm mt-10 bg-gray-200 px-6">
+      
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-12 grid grid-cols-1 md:grid-cols-4 gap-8">
         <FooterBrandInfo />
         <FooterColumn title="Program" links={["TPQ", "Diniyah", "Kajian Kitab", "Donasi"]} />

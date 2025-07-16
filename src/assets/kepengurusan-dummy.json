@@ -1,0 +1,70 @@
+{
+  "periode": "2020–2024",
+  "topSection": [
+    {
+      "judul": "Pelindung",
+      "items": ["KH. M. Munawwar Ahmad (Pengasuh)"]
+    },
+    {
+      "judul": "Dewan Pengawas",
+      "items": [
+        "Ust. M. Arwan Rosyadi, S.T",
+        "Ust. Rahmat Ainun Najib",
+        "Ust. M. Abdul Ghofir, S.Th.I",
+        "Ust. M. Arif Nanang Qosim, S.H.I"
+      ]
+    }
+  ],
+  "strukturInti": {
+    "Ketua": ["Taufik Ilham, S.E"],
+    "Wakil": ["Abdul Hakim Amrullah, S.Pd"],
+    "Sekretaris": [
+      "Bahrul Fawaid, S.Kom",
+      "Andrian Muchtar L, S.Kom",
+      "Annas Mashuri"
+    ],
+    "Bendahara": [
+      "Wildan Nadiyal Ahsan, S.Kom",
+      "M. Faqih Mubarok"
+    ]
+  },
+  "divisi": [
+    {
+      "judul": "Kurikulum",
+      "koordinator": "Lutfi Laudzi, M.T",
+      "anggota": [
+        "Chanif Ainun Na’im, S.Sos",
+        "Abdur Rahman Wakhid, S.S.",
+        "Abdurrohman",
+        "M. Sulthon Latif Rahmatullah, M.A"
+      ]
+    },
+    {
+      "judul": "Kesantrian",
+      "koordinator": "M. Nabih Ali, M.H",
+      "anggota": [
+        "M. Iqbal Zamzami, S.Pd",
+        "Hilmi Ikhwan Syarofi, S.Ag.",
+        "Adi Tohari"
+      ]
+    },
+    {
+      "judul": "Sarana dan Prasarana",
+      "koordinator": "Arif Rusman, S.T",
+      "anggota": [
+        "Rizal Fathurrahman, M.Pd",
+        "Achmad Maulan Achsan, S.Si",
+        "Muhammad Hidayat"
+      ]
+    },
+    {
+      "judul": "Humas",
+      "koordinator": "Abdul Hadi, S.Hum",
+      "anggota": [
+        "Taufik Hidayatulloh",
+        "M. Amirudin, S.Kom",
+        "Haikal Ghipari"
+      ]
+    }
+  ]
+}
