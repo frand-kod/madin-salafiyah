@@ -3,7 +3,7 @@ import ArticleGrid from "../components/partial/article/ArticleGrid";
 import ArticleListItem from "../components/partial/article/ArticleListItem";
 import { useParams } from "react-router-dom";
 //data
-import { articles } from "../assets/articles-dummy";
+import articles from "../assets/articles-dummy copy.json"
 
 export default function CategoryPage() {
   const { slug } = useParams();

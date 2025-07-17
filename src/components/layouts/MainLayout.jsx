@@ -6,7 +6,7 @@ export default function MainLayout() {
   return (
     <>
       <Navbar />
-      <main className="max-w-7xl mx-auto px-4 md:px-8 py-4">
+      <main className="max-w-6xl mx-auto px-4 md:px-8 py-4">
         <Outlet />
       </main>
       <Footer />

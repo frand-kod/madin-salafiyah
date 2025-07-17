@@ -4,7 +4,7 @@ import MiniSection from "../components/section/GridSection";
 import TeachersGrid from "../components/partial/Teacher";
 import ActivitiesGrid from "../components/partial/Activities";
 import ListSection from "../components/section/ListSection";
-import articles from "../assets/list-article.json";
+import articles from "../assets/articles-dummy copy.json";
 import FAQSection from "../components/section/FaqSection";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
     <div>
       <Hero />
       <About />
-      <ListSection title={"Bahtsul Masa'ail"} articles={articles}></ListSection>
+      <ListSection title={"Serba Serbi Keilmuan"} articles={articles}></ListSection>
       <MiniSection id="activities" title="Kegiatan Keseharian" link="/kegiatan">
         <ActivitiesGrid />
       </MiniSection>

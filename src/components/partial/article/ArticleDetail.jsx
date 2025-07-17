@@ -1,11 +1,15 @@
 // src/pages/ArticleDetail.jsx
 import { useParams, Link } from "react-router-dom";
-import { articles } from "../../../assets/articles-dummy";
+import articles from "../../../assets/articles-dummy copy.json"
 import ArticleListItem from "./ArticleListItem";
 
 export default function ArticleDetail() {
   const { slug } = useParams();
+
   const article = articles.find((a) => a.slug === slug);
+const paragraphs = article?.content
+  ?.split("\n")
+  .filter((line) => line.trim() !== ""); // hanya ambil baris yang tidak kosong
 
   const related = articles.filter(
     (a) =>
